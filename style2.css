@@ -1,0 +1,53 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+	font-family: 'Potta One', cursive;
+	background: url(webpage.jpg) no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+h1
+{
+	font-size: 3rem;
+	color: #d8dfe7;
+}
+
+hr {
+	
+/*	max-width: 65px;*/
+	background-color: #ee4b08;
+	opacity: 1;
+      
+     }
+
+.buffer
+{
+	height: 5rem;
+}
+
+.btn{
+	font-weight:  700;
+	border-radius:  300px;
+	text-transform: uppercase;
+}
+
+.btn-primary
+{
+	background-color: #ee4b08;
+	border-color: #ee4b08;l
+}
+
+.btn-primary:hover
+{
+	background-color: #ff9292;
+	border-color: #ff9292;
+	border-width: 4px;
+}
+.btn-xl
+{
+	padding: 1rem 2rem;
+}
